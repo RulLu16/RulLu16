@@ -1,6 +1,7 @@
 ### Hi there 👋   
 
-🌱 I’m YeEun Lee and currently learning on Spring, JPA and so on!
+🌱 I’m YeEun Lee and currently learning on Spring, JPA and so on!    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interested in good architecture and clean code!
 
 <!--
 **RulLu16/RulLu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
