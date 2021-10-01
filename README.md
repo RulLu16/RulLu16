@@ -33,8 +33,8 @@ https://github.com/Buravel/Backend
 https://github.com/Menu-Teller/Menu-Teller-for-blind
  - 2021.07 ~ 2021.08. IT 면접 경험 공유 플랫폼 IT'erview at DnD 동아리   
 https://github.com/dnd-side-project/dnd-5th-10-backend
- - 2020.08 ~ 2020.09. 분산 서버 시스템 dss 기여 at 오픈소스 컨트리뷰톤   
-https://github.com/ztkmkoo/dss
+<!-- - 2020.08 ~ 2020.09. 분산 서버 시스템 dss 기여 at 오픈소스 컨트리뷰톤   
+https://github.com/ztkmkoo/dss-->
 
 #### 🎓 Education
  - 2017.03 ~ . Majoring Computer Science and Engineering in Sogang Univ.
