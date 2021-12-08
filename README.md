@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 #### 🌁 Experience
  - 2021.01 ~ 2021.07. BackEnd, Research Intern at TeamW 
- - 2020.09 ~ 2020.12. Data Tagging Intern at Sogang NLP lab
  - 2020.09 ~ 2020.12. C Programming mentor <!--at Sogang Univ-->
  - 2018.09 ~ 2018.12. Python mentor <!--at Sogang Univ-->
 
