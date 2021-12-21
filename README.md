@@ -1,6 +1,6 @@
 ### Hi there 👋   
 
-🌱 I’m YeEun Lee, junior developer!    
+🌱 I’m YeEun Lee, junior backend developer!    
 Interested in good architecture and clean code!
 
 <!--
