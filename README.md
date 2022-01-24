@@ -34,12 +34,13 @@ https://github.com/Menu-Teller/Menu-Teller-for-blind
 https://github.com/dnd-side-project/dnd-5th-10-backend
 -->
 
-#### 🎓 Education
- - 2017.03 ~ . Majoring Computer Science and Engineering in Sogang Univ.
-
 #### 🔧 Tech Skill and Interest
  - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
  - <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/> 
+
+
+#### 🎓 Education
+ - 2017.03 ~ 2022.02. Majoring Computer Science and Engineering in Sogang Univ.
 <!--
 #### 📌 Certification
  - Samsung SDS pro -->
