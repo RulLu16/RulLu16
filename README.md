@@ -32,10 +32,10 @@ https://github.com/Buravel/Backend
 https://github.com/Menu-Teller/Menu-Teller-for-blind
  - 2021.07 ~ 2021.08. IT 면접 지식 공유 플랫폼 IT'erview at DnD 동아리   
 https://github.com/dnd-side-project/dnd-5th-10-backend
-
+-->
 
 #### 🎓 Education
- - 2017.03 ~ . Majoring Computer Science and Engineering in Sogang Univ.-->
+ - 2017.03 ~ . Majoring Computer Science and Engineering in Sogang Univ.
 
 #### 🔧 Tech Skill and Interest
  - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
