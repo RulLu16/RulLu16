@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RulLu16&show_icons=true&theme=calm)-->
 
-#### 🌁 Experience
+#### 🌁 Work Experience
  - 2021.12 ~ . Backend Developer at Naver Corp.
  - 2021.01 ~ 2021.07. BackEnd, Research Intern at TeamW
  - 2020.09 ~ 2021.01. NLP Lab Data Intern
